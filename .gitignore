@@ -1,0 +1,10 @@
+.goDingtalkConfig/
+video/
+*.mp4
+*.ts
+*.log
+*.tmp
+tools/**/*.zip
+tools/**/ffplay.exe
+tools/**/ffprobe.exe
+tools/**/doc/
